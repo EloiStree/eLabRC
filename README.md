@@ -1,24 +1,50 @@
 # eLabRC
 
-A remote control laboratory of Eloi.
+Un laboratoire de contrôle à distance par Eloi.
 
-Welcome to the landing page of eLabRC
+Bienvenue sur la page d'accueil d'eLabRC !
 
-## KISS: Keep It Simple Stupide
+## KISS: Keep It Simple, Stupid
 
 ![image](https://github.com/user-attachments/assets/20b3a77a-a313-454b-9b8c-9347f621df10)
 
-As a game, it is just an app where you can play some remote control toys found on the web and on Amazon.
-As an application, it is remote control interface for Iot and to play game on Window.
-As a workshop, it is an application to learn code and networking.
-As a multiplayer, it is gate to play on a single massive multiplayer game from integers.
+### En résumé :
+- **En tant que jeu** : une application où vous pouvez contrôler des jouets télécommandés trouvés sur le web ou Amazon.
+- **En tant qu'application** : une interface de contrôle à distance pour l'IoT et pour jouer sur des jeux Windows.
+- **En tant qu'atelier** : un outil d'apprentissage du code et des réseaux.
+- **En multijoueur** : une passerelle pour jouer à un jeu massivement multijoueur à partir de chiffres.
 
-As you can see it is not simple ^^, that a laboratory.
-All code in the app is fetchable on the GitHub.
+Comme vous pouvez le constater, ce n'est pas si simple ^^. C'est un véritable laboratoire.
 
+Tout le code de l'application est accessible sur GitHub.
 
-May the code be without.
-
-Kind regards,
+Que le code soit avec vous.
 Eloi
 
+
+Voici la version corrigée et traduite en anglais :
+
+---
+
+# eLabRC
+
+A remote control laboratory by Eloi.
+
+Welcome to the eLabRC landing page!
+
+## KISS: Keep It Simple, Stupid
+
+![image](https://github.com/user-attachments/assets/20b3a77a-a313-454b-9b8c-9347f621df10)
+
+### In summary:
+- **As a game**: an app where you can control remote-controlled toys found on the web or Amazon.
+- **As an application**: a remote control interface for IoT and for playing games on Windows.
+- **As a workshop**: a tool for learning coding and networking.
+- **As a multiplayer**: a gateway to play a massively multiplayer game based on numbers.
+
+As you can see, it's not that simple ^^. It's a real laboratory.
+
+All the code for the app is available on GitHub.
+
+May the code be with you.  
+Eloi
