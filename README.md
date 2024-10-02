@@ -48,3 +48,18 @@ All the code for the app is available on GitHub.
 
 May the code be with you.  
 Eloi
+
+
+
+-------------------
+
+
+## Affilate Link
+
+🍕 & 🍺 donation are great (See [License](https://github.com/EloiStree/License) ).  
+But affilate links can help too 😋.  
+
+Affilate Link:
+- Buy a Quest 3: https://www.meta.com/referrals/link/EloiStree
+- Buy some gearon Amazon: https://amzn.to/4euGMg0
+
