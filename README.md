@@ -1,3 +1,5 @@
+
+
 # eLabRC
 
 Un laboratoire de contrôle à distance par Eloi.
@@ -62,4 +64,24 @@ But affilate links can help too 😋.
 Affilate Link:
 - Buy a Quest 3: https://www.meta.com/referrals/link/EloiStree
 - Buy some gearon Amazon: https://amzn.to/4euGMg0
+
+---------------
+
+## Eloi Laboratory on Remote Control
+
+**On GitHub**
+- https://github.com/EloiStree?tab=repositories&q=eLabRC_&type=&language=&sort=
+
+**XR version**
+Meta XR:  https://github.com/EloiStree/eLabRC_QuestXR
+Steam XR:  https://github.com/EloiStree/eLabRC_SteamXR
+WebGL XR: https://github.com/EloiStree/eLabRC_WebGLXR
+
+**No XR Version**
+Window:   
+Android:  https://github.com/EloiStree/eLabRC_Android
+Xbox:  https://github.com/EloiStree/eLabRC_Xbox
+WebGL:  https://github.com/EloiStree/eLabRC_WebGL
+
+
 
