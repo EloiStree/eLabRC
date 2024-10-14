@@ -12,6 +12,14 @@ Bienvenue sur la page d'accueil d'eLabRC !
 - GitHub : https://github.com/EloiStree/eLabRC/releases
 - Google Play Store: https://play.google.com/store/apps/details?id=be.elab.qelabrc
 
+
+## Hire Me
+
+I am a teacher in Belgium. 
+So if you need me to teach C#, Unity3D, XR, Lua, Python or Rust from this project.
+Feel free to ping me on LinkedIn: https://www.linkedin.com/in/eloistree/ 
+Or ask me for a small help on Fiveer: https://www.fiverr.com/eloistree/coach-you-in-unity3d
+
 ## KISS: Keep It Simple, Stupid
 
 ![image](https://github.com/user-attachments/assets/20b3a77a-a313-454b-9b8c-9347f621df10)
