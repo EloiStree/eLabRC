@@ -16,9 +16,9 @@ Bienvenue sur la page d'accueil d'eLabRC !
 ## Hire Me
 
 I am a teacher in Belgium. 
-So if you need me to teach C#, Unity3D, XR, Lua, Python or Rust from this project.
-Feel free to ping me on LinkedIn: https://www.linkedin.com/in/eloistree/ 
-Or ask me for a small help on Fiveer: https://www.fiverr.com/eloistree/coach-you-in-unity3d
+So if you need me to teach C#, Unity3D, XR, Lua, Python or Rust from this project:
+- Feel free to message me on LinkedIn: https://www.linkedin.com/in/eloistree/   
+- Ask me for a small help on Fiveer: https://www.fiverr.com/eloistree/coach-you-in-unity3d  
 
 ## KISS: Keep It Simple, Stupid
 
