@@ -1,10 +1,16 @@
 
 
+
 # eLabRC
+
+
 
 Un laboratoire de contrôle à distance par Eloi.
 
 Bienvenue sur la page d'accueil d'eLabRC !
+## Download
+- GitHub : https://github.com/EloiStree/eLabRC/releases
+- Google Play Store: https://play.google.com/store/apps/details?id=be.elab.qelabrc
 
 ## KISS: Keep It Simple, Stupid
 
